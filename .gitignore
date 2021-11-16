@@ -1,0 +1,29 @@
+# General
+__pycache__/
+*.py[cod]
+*/wandb/*
+*/.ipynb_checkpoints/*
+.readthedocs.yml
+.bash_history
+.bashrc
+.cache
+.conda
+.config
+.ipynb_checkpoints
+.ipython
+.jupyter
+.local
+.nv
+.netrc
+.profile
+.viminfo
+
+# Dataset
+input/data/*
+input/*.json
+
+# Code
+code/backup/*
+code/pths/*
+code/trained_models/*
+code/wandb/*
